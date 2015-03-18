@@ -57,7 +57,7 @@ app/src/main/java/com.mycompany.myfirstapp/MyActivity.java
 
 app/src/main/AndroidManifest.xml
 
-[manifest](http://developer.android.com/guide/topics/manifest/manifest-intro.html)文件描述了项目的基本特征并列出了组成应用的各个组件，接下来额学习会更深入了解这个文件并添加更多组件到该文件中。
+[manifest](http://developer.android.com/guide/topics/manifest/manifest-intro.html)文件描述了项目的基本特征并列出了组成应用的各个组件，接下来的学习会更深入了解这个文件并添加更多组件到该文件中。
 
 app/build.gradle
 
